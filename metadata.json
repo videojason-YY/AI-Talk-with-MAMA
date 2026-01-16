@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Evergreen AI",
+  "description": "A thoughtful and gentle AI companion designed specifically for elderly users, featuring high-contrast UI, simplified controls, and intergenerational connection tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
